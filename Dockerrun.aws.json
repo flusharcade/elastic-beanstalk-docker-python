@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "flusharcade/elastic-beanstalk-docker-python/",
+    "Name": "flusharcade/elastic-beanstalk-docker-python",
     "Update": "true"
   },
   "Ports": [

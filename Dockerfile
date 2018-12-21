@@ -4,7 +4,5 @@ ADD . /app
 
 WORKDIR /app
 
-EXPOSE 80/tcp
-EXPOSE 80/udp
-
+EXPOSE 5000
 CMD [ "python", "./app/app.py" ]
